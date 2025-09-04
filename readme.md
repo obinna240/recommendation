@@ -15,3 +15,4 @@ Git will stop tracking the file
 Afterwards commit and push changes to remote
 
 2. Implement configuration.
+3. Implement prompt template
