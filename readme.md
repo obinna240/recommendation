@@ -5,3 +5,6 @@
 ```
 pip install -e .
 ```
+Always run this after creating packages and modules, especially as we are adding new config and utils directories.
+
+2. Implement configuration.
