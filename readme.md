@@ -16,3 +16,5 @@ Afterwards commit and push changes to remote
 
 2. Implement configuration.
 3. Implement prompt template
+4. Build the recommender using langchain. This will use a RetrievalQA
+5. Create a pipeline. This brings everything together in pipeline.py

@@ -36,7 +36,7 @@ class VectorStoreBuilder:
         # is passed in the constuctor
         db = Chroma.from_documents(texts, 
                                    self.embedding, 
-                                   persists_directory=self.persist_dir)
+                                   persist_directory=self.persist_dir)
         #persist the embeddings
         db.persist()
 
