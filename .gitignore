@@ -3,3 +3,4 @@
 RECOMMENDATION.egg-info/*
 */__pycache__
 logs
+*/*.bin
